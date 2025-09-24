@@ -1,2 +1,2 @@
 # STM_asm
-Bare-metal coding try data of STM32 board 
+Bare-metal coding try of STM32 board 
